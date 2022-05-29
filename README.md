@@ -54,7 +54,7 @@ $ jupyter nbconvert --execute Random_Forest.ipynb
 ```
 
 ## Code Examples
-To extract 30 seconds from offset 30: `for %i in (*.mp3) do ffmpeg -ss 30 -t 30 -i "%i" "%~ni.wav`
+To extract 30 seconds from offset 30 : `for %i in (*.mp3) do ffmpeg -ss 30 -t 30 -i "%i" "%~ni.wav`
 
 ## Plots showing observations
 > Figure 1: ANN - Varying test and train accuracy with epochs <br />
